@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Gujrati</h1>
-<h3 align="center">NCC Cadet , Web Developer, Machine Learning Engineer</h3>
+<h3 align="center">NCC Cadet, Java Developer</h3>
 
-- 🔭 I’m currently working on **Intrusion Detection System**
-
-- 🌱 I’m currently learning **Deep Learning,Artificial Intelligence , Pytorch , Node js**
-
-- 💬 Ask me about **react js , Node js , Machine Learning**
-
-- 📫 How to reach me **adityagujrati118@gmail.com**
+- 📫 How to reach me **adityagujratii118@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
